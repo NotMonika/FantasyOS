@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 uefi="0.4.2"
 log="0.4.8"
+uefi-services = "0.2.0"
